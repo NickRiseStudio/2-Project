@@ -1,0 +1,14 @@
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.exe
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.deps.json
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.runtimeconfig.json
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.dll
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\bin\Debug\net8.0\Guess the number.pdb
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.AssemblyInfo.cs
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.dll
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\refint\Guess the number.dll
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.pdb
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\Guess the number.genruntimeconfig.cache
+C:\Users\Пользователь 1\Desktop\Проекты для  практики\Guess the number\Guess the number\Guess the number\obj\Debug\net8.0\ref\Guess the number.dll
